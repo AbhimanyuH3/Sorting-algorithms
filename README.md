@@ -1,7 +1,7 @@
 # Sorting algorithms
  Sorting any sequence means to arrange the elements of that sequence according to some specific criterion.
  
-                                          Insertion Sort --- Time Complexity: O(N2) --- in-place sorting algorithm
+                             Insertion Sort --- Time Complexity: O(N2) --- in-place sorting algorithm
 Insertion Sort is an In-Place sorting algorithm. This algorithm works in a similar way of sorting a deck of playing cards.
 
 The idea is to start iterating from the second element of array till last element and for every element insert at its correct position in the subarray before it.
