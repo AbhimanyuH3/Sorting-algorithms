@@ -21,7 +21,12 @@ Step 4: Shift all of the elements in the sub-array before
         element by one place and insert the current element 
         at the new empty space.
         
-Step 5: Repeat step 2-3 until the entire array is sorted.
+Step 5: Repeat step 2-3 until the entire array is sorted.<br>
+<------------------------------------------------------------------------->
 
+                        Bubble Sort --- Time Complexity: O(N2) ---  in-place sorting algorithm
 
-
+Sorting algorithm and it works on the principle that:---
+In one iteration if we swap all adjacent elements of an array such that after swap the first element is less than the second element then at the end of the iteration, the first element of the array will be the minimum element. <br>
+<------------------------------------------------------------------------->
+                        
