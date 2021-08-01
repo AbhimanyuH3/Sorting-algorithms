@@ -28,5 +28,5 @@ Step 5: Repeat step 2-3 until the entire array is sorted.<br>
 
 Sorting algorithm and it works on the principle that:---
 In one iteration if we swap all adjacent elements of an array such that after swap the first element is less than the second element then at the end of the iteration, the first element of the array will be the minimum element. <br>
-<------------------------------------------------------------------------->
+<-------------------------------------------------------------------------->
                         
